@@ -9,6 +9,7 @@
   "author": "Amir Mammadov",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "slugify": "^1.6.5"
   },
   "devDependencies": {
